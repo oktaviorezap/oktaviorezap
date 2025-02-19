@@ -1,7 +1,5 @@
-# Hi there 👋 , I'm Oktavio Reza Putra!
-- Currently working with Data Science & Data Analytics field, I love learn new thing in programming such as Python, SQL, Excel/Spreadsheet and Dashboard Optimization Tools i.e Looker Studio, Power BI and Tableau.
-- Passionate about continuously learning and applying new data techniques, driven by ambition and a belief in consistency and perseverance where have been learning knowledge in the Data Field for more than 1 year.
-- Aspiring to advance in the data field, tackle complex problems with innovative solutions, and ultimately attain a leadership role where I can mentor others and drive strategic decision-making within an organization.  
+# Hi there 👋 , I'm Oktavio Reza Putra (Just call me REZA)!
+Currently working with Data Science & Data Analytics field, I love learn new thing in programming such as Python, SQL, Excel/Spreadsheet and Dashboard Optimization Tools i.e Looker Studio, Power BI and Tableau. With my passion for learning new things in my field, I keep myself open to learning new tools or programming languages for my own advancement.
 
 ### Tools:
 <p>
