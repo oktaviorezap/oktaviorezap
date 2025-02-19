@@ -12,6 +12,7 @@ But for me, learning Data Analytics and Data Science technically is not enough b
     <img src="https://img.shields.io/badge/-Looker-4285F4?style=flat&logo=looker&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Power BI-F2C811?style=flat&logo=powerbi&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white"/>
 </p>
 
 ### Stats:
