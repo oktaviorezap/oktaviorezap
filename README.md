@@ -6,7 +6,7 @@ But for me, learning Data Analytics and Data Science technically is not enough b
 
 ### Tools:
 <p>
-    <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white"/><br>
     <img src="https://img.shields.io/badge/-Google Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white"/>
     <img src="https://img.shields.io/badge/-DataGrip-000000?style=flat&logo=datagrip&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white"/>
