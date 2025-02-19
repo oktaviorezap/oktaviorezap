@@ -10,7 +10,7 @@ But for me, learning Data Analytics and Data Science technically is not enough b
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
     <img src="https://img.shields.io/badge/-Microsoft Excel-217346?style=flat&logo=microsoftexcel&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Looker-4285F4?style=flat&logo=looker&logoColor=white"/>
-    <img src="https://gpvc.arturio.dev/bagusfe" />
+    <img src="https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white"/>
 </p>
 
 ### Stats:
