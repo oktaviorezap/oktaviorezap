@@ -22,7 +22,6 @@ But for me, learning Data Analytics and Data Science technically is not enough b
 </p>
 
 ### Stats:
-<details>
  <summary><strong>What i am learning/working on these days</strong></summary>
     - 🔭 I’m currently working on Digital E-Commerce Company as Classified Ops Analytics Officer</br>
     - 🏭 I have 2 year Experience in Manufacturing Industry as Sales Ops Data Analyst</br>
