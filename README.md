@@ -30,7 +30,7 @@ But for me, learning Data Analytics and Data Science technically is not enough b
     - 👯 I’m looking to collaborate on All Data Science & Data Analytics Project. </br>
     - 🤔 I’m looking for help with master of Programming & Business Understanding. hehe </br>
     - 💬 Ask me about anything.</br>
-    - 📫 How to reach me: <a href="mailto:oktaviorezaputra@gmail.com">Email me!</a>  </br>
+    - 📫 How to reach me: <a href="oktaviorezaputra@gmail.com">Email me!</a>  </br>
 
 </details>
 <p>
