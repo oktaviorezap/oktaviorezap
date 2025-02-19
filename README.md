@@ -1,4 +1,4 @@
-# Hi there 👋 , I'm Oktavio Reza Putra (Just call me REZA)!
+# Hi there 👋 , I'm Oktavio Reza Putra (Just call me Reza)!
 Currently working with Data Science & Data Analytics field, I love learn new thing in programming such as Python, SQL, Excel/Spreadsheet and Dashboard Optimization Tools i.e Looker Studio, Power BI and Tableau. With my passion for learning new things in my field, I keep myself open to learning new tools or programming languages for my own advancement.
 <br>
 <br>
