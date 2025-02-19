@@ -2,12 +2,13 @@
 Currently working with Data Science & Data Analytics field, I love learn new thing in programming such as Python, SQL, Excel/Spreadsheet and Dashboard Optimization Tools i.e Looker Studio, Power BI and Tableau. With my passion for learning new things in my field, I keep myself open to learning new tools or programming languages for my own advancement.
 <br>
 <br>
-But for me, learning Data Analytics and Data Science technically is not enough because technical skills are good if you don't have a very good understanding of the business. Therefore, I maximize the Business understanding skills that I learned when I was studying Management in college.
+But for me, learning Data Analytics and Data Science technically is not enough because technical skills are good if you don't have a very good understanding of the business. Therefore, I optimized and utilized the Business understanding skills that I learned when I was studying Management in college.
+
 ### Tools:
 <p>
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-    <img src="https://img.shields.io/badge/IDE-Xcode-blue?&logo=xcode" />
+    <img src="https://img.shields.io/badge/Tools-Excel-informational?style=flat" />
     <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
     <img src="https://gpvc.arturio.dev/bagusfe" />
 </p>
