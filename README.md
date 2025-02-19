@@ -32,14 +32,14 @@ But for me, learning Data Analytics and Data Science technically is not enough b
     - 💬 Ask me about anything.</br>
     - 📫 How to reach me: <a href="oktaviorezaputra@gmail.com" target="blank"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=gmail&logoColor=white"/></br>
 
-</details>
-<p>
-    <img src="https://github-readme-stats.vercel.app/api?username=oktaviorezap&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oktaviorezap&layout=compact" height=180 />
-</p>
-
 ### Let's connect!
 <p>
     <a href="https://www.linkedin.com/in/oktaviorezaputra/" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
     <a href="https://medium.com/@oktaviorezaputra" target="blank"><img src="https://img.shields.io/badge/-Medium-000000?style=flat&logo=medium&logoColor=white"/></a>
+</p>
+
+</details>
+<p>
+    <img src="https://github-readme-stats.vercel.app/api?username=oktaviorezap&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oktaviorezap&layout=compact" height=180 />
 </p>
