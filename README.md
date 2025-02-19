@@ -23,14 +23,14 @@ But for me, learning Data Analytics and Data Science technically is not enough b
 ### Stats:
 <details>
  <summary><strong>What i am learning/working on these days</strong></summary>
-    - 🔭 I’m currently working on RPA </br>
-    - 🌱 I’m currently learning Python,SwiftUI and UIKit </br>
-    - 👯 I’m looking to collaborate on Automation Project, Mobile Apps. </br>
-    - 🤔 I’m looking for help with master of programming. hehe </br>
+    - 🔭 I’m currently working on Digital E-Commerce Company as Classified Ops Analytics Officer</br>
+    - 🏭 I have 2 year Experience in Manufacturing Industry as Sales Ops Data Analyst
+    - 🌱 I’m currently Optimizing my skill in Python especially in Machine Learning, Natural Language Processing (NLP), Web Scrapping </br>
+    - 👯 I’m looking to collaborate on All Data Science & Data Analytics Project. </br>
+    - 🤔 I’m looking for help with master of Programming & Business Understanding. hehe </br>
     - 💬 Ask me about anything.</br>
-    - 📫 How to reach me: <a href="mailto:goodfe@yahoo.com">Email me!</a>  </br>
-    - 😄 Pronouns: He/Him </br>
-    - ⚡ Fun fact: ... </br>
+    - 📫 How to reach me: <a href="mailto:oktaviorezaputra@gmail.com">Email me!</a>  </br>
+
 </details>
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=oktaviorezap&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
@@ -39,9 +39,6 @@ But for me, learning Data Analytics and Data Science technically is not enough b
 
 ### Let's connect!
 <p>
-    <a href="https://bagusfe.id" target="blank"><img src="https://img.shields.io/badge/Website-https://bagusfe.com-green?" /></a>
-    <a href="https://linkedin.bagusfe.com" target="blank"><img src="https://img.shields.io/badge/Bagus_Frayoga-30302f?style=flat&logo=linkedin" /></a>
-    <a href="https://medium.com/@bagusfe" target="blank"><img src="https://img.shields.io/badge/Bagus_Frayoga-30302f?style=flat&logo=medium" /></a>
-    <a href="https://tw.bagusfe.com" target="blank"><img src="https://img.shields.io/badge/@bagusfe_-30302f?style=flat&logo=twitter" /></a>
-    <a href="https://www.paypal.me/gewdfe" target="blank"><img src="https://ionicabizau.github.io/badges/paypal.svg" /></a>
+    <a href="https://www.linkedin.com/in/oktaviorezaputra/" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
+    <a href="https://medium.com/@oktaviorezaputra" target="blank"><img src="https://img.shields.io/badge/-Medium-000000?style=flat&logo=medium&logoColor=white"/></a>
 </p>
